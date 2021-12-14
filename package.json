@@ -1,0 +1,15 @@
+{
+  "name": "invisible-backdoor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EzeSoler",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "util": "^0.12.4"
+  }
+}
